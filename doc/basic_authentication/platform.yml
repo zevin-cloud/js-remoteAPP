@@ -1,0 +1,19 @@
+name: Basic
+category: custom
+type: WebCloud
+comment: "Basic Authentication"
+protocols:
+  - name: basic
+    port: 443
+    primary: true
+
+custom_fields:
+  - name: Label
+    label: "{{ 'Label' | trans }}"
+    type: str
+    default: basic
+
+i18n:
+  Label:
+    zh: 标签
+    ja: タブ

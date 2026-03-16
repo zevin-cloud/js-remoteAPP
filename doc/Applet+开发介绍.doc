@@ -1,0 +1,571 @@
+Date: Mon, 16 Mar 2026 19:40:49 +0800 (HKT)
+Message-ID: <1696022029.29719.1773661249891@60f831c906c0>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_29718_1462813484.1773661249891"
+
+------=_Part_29718_1462813484.1773661249891
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Applet =E5=BC=80=E5=8F=91=E4=BB=8B=E7=BB=8D</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Applet =E5=BC=80=E5=8F=91=E4=BB=8B=E7=BB=8D</h1>
+    <div class=3D"Section1">
+        <p>Applet =E6=98=AF=E4=B8=80=E4=B8=AA=E5=8C=85=E5=90=AB python =E8=
+=84=9A=E6=9C=AC=E7=9A=84=E7=9B=AE=E5=BD=95=EF=BC=8C=E5=85=B6=E4=B8=AD=E9=99=
+=A4=E4=BA=86platform.yml =E3=80=81uninstall.yml =E4=BB=A5=E5=A4=96=EF=BC=8C=
+=E5=85=B6=E4=BB=96=E6=98=AF=E5=BF=85=E9=A1=BB=E7=9A=84=EF=BC=9A</p>
+<pre><code>=E2=94=9C=E2=94=80=E2=94=80 icon.png =20
+=E2=94=9C=E2=94=80=E2=94=80 main.py
+=E2=94=9C=E2=94=80=E2=94=80 manifest.yml
+=E2=94=9C=E2=94=80=E2=94=80 platform.yml
+=E2=94=9C=E2=94=80=E2=94=80 build.yml
+=E2=94=9C=E2=94=80=E2=94=80 patch.yml
+=E2=94=9C=E2=94=80=E2=94=80 uninstall.yml=20
+=E2=94=94=E2=94=80=E2=94=80 setup.yml
+</code></pre>
+<p>=E5=90=84=E6=96=87=E4=BB=B6=E4=BB=8B=E7=BB=8D=EF=BC=9A</p>
+<ul>
+<li>main.py =E6=98=AF python =E4=BB=A3=E5=A1=AB=E7=9A=84=E6=89=A7=E8=A1=8C=
+=E8=84=9A=E6=9C=AC</li>
+<li>icon.png =E6=98=AF applet =E7=9A=84=E5=9B=BE=E6=A0=87</li>
+<li>manifest.yml =E6=98=AF=E5=AF=B9 applet =E7=9A=84=E5=85=83=E6=95=B0=E6=
+=8D=AE</li>
+<li>setup.yml =E6=98=AF=E6=8B=89=E8=B5=B7=E7=A8=8B=E5=BA=8F=E7=9A=84=E5=AE=
+=89=E8=A3=85=E6=8F=8F=E8=BF=B0</li>
+<li>platform.yml =E9=85=8D=E5=A5=97=E5=B9=B3=E5=8F=B0=E7=9A=84=E8=AE=BE=E7=
+=BD=AE=EF=BC=8C=E5=AE=89=E8=A3=85=E6=97=B6=E8=87=AA=E5=8A=A8=E5=88=9B=E5=BB=
+=BA=E8=AF=A5=E5=B9=B3=E5=8F=B0</li>
+<li>build.yml =E5=A4=96=E9=83=A8=E5=AE=89=E8=A3=85=E7=A8=8B=E5=BA=8F=E9=93=
+=BE=E6=8E=A5=EF=BC=8C=E6=AF=94=E5=A6=82=E7=AC=AC=E4=B8=89=E6=96=B9 app =E9=
+=9C=80=E8=A6=81=E4=BB=8E=E5=AE=98=E7=BD=91=E4=B8=8B=E8=BD=BD msi =E5=AE=89=
+=E8=A3=85=E6=96=87=E4=BB=B6</li>
+<li>patch.yml =E8=87=AA=E5=AE=9A=E4=B9=89=E5=88=9D=E5=A7=8B=E5=8C=96=E5=AE=
+=89=E8=A3=85=E8=84=9A=E6=9C=AC=EF=BC=8C=E6=AF=94=E5=A6=82=E9=9C=80=E8=A6=81=
+=E4=BF=AE=E6=94=B9=E4=B8=80=E4=BA=9B=E9=85=8D=E7=BD=AE=EF=BC=8C=E6=BF=80=E6=
+=B4=BB=E3=80=81=E9=85=8D=E7=BD=AE=E5=BA=94=E7=94=A8=E5=88=9D=E5=A7=8B=E5=8C=
+=96=E7=AD=89=E7=AD=89</li>
+<li>uninstall.yml =E5=8D=B8=E8=BD=BD=E5=BA=94=E7=94=A8=E7=9A=84=E8=84=9A=E6=
+=9C=AC=EF=BC=8CJumpServer &gt;=3D v3.10.8 =E4=B8=94=E5=8F=91=E5=B8=83=E6=9C=
+=BA=E5=AE=89=E8=A3=85=E7=9A=84 tinker version &gt;=3D v0.1.5</li>
+</ul>
+<h3 id=3D"=E5=85=83=E6=95=B0=E6=8D=AE-manifestyml"><a href=3D"#=E5=85=83=E6=
+=95=B0=E6=8D=AE-manifestyml">=E5=85=83=E6=95=B0=E6=8D=AE manifest.yml</a></=
+h3>
+<p>manifest.yml =E5=AE=9A=E4=B9=89=E4=BA=86 applet =E7=9A=84=E5=85=83=E6=95=
+=B0=E6=8D=AE=EF=BC=8C=E5=A6=82=E5=90=8D=E7=A7=B0=E3=80=81=E4=BD=9C=E8=80=85=
+=E3=80=81=E7=89=88=E6=9C=AC=E3=80=81=E6=94=AF=E6=8C=81=E7=9A=84=E5=8D=8F=E8=
+=AE=AE=E3=80=82</p>
+<pre><code>name: mysql_workbench8 =EF=BC=88required=EF=BC=89
+display_name: MySQL Workbench8
+comment: A tool for working with MySQL, to execute SQL and design tables (r=
+equired=EF=BC=89
+version: 0.1 (required=EF=BC=89
+exec_type: python (reserved=EF=BC=8C=E6=9A=82=E6=9C=AA=E4=BD=BF=E7=94=A8)
+author: Eric (required=EF=BC=89
+type: general (required=EF=BC=89
+update_policy: none (=E6=9A=82=E6=9C=AA=E4=BD=BF=E7=94=A8)
+tags: (required=EF=BC=89
+  - database
+protocols: (required=EF=BC=89
+  - mysql
+</code></pre>
+<p>=E5=AD=97=E6=AE=B5=E8=AF=B4=E6=98=8E=EF=BC=9A</p>
+<ul>
+<li>name=EF=BC=9A=E5=90=8D=E7=A7=B0=E6=9C=80=E5=A5=BD=E6=98=AF=E5=AD=97=E6=
+=AF=8D=E6=95=B0=E5=AD=97=EF=BC=8C=E4=B8=8D=E8=A6=81=E5=8C=85=E5=90=AB=E7=89=
+=B9=E6=AE=8A=E5=AD=97=E7=AC=A6</li>
+<li>protocols=EF=BC=9A=E6=AD=A4 applet =E8=84=9A=E6=9C=AC=E6=94=AF=E6=8C=81=
+=E7=9A=84=E5=8D=8F=E8=AE=AE</li>
+<li>tags=EF=BC=9A=E4=B8=80=E4=BA=9B=E6=A0=87=E7=AD=BE</li>
+<li>type: =E4=B8=BB=E8=A6=81=E6=98=AF general =E6=88=96 web</li>
+</ul>
+<h3 id=3D"=E5=AE=89=E8=A3=85=E6=9D=A1=E4=BB=B6-setupyml"><a href=3D"#=E5=AE=
+=89=E8=A3=85=E6=9D=A1=E4=BB=B6-setupyml">=E5=AE=89=E8=A3=85=E6=9D=A1=E4=BB=
+=B6 setup.yml</a></h3>
+<p>setup.yml =E5=AE=9A=E4=B9=89=E4=BA=86 applet =E6=8B=89=E8=B5=B7=E7=A8=8B=
+=E5=BA=8F=E7=9A=84=E5=AE=89=E8=A3=85=E6=96=B9=E5=BC=8F</p>
+<pre><code>type: msi # exe, zip, manual
+source: mysql-workbench-community-8.0.31-winx64.msi
+arguments:
+  - /qn
+  - /norestart
+destination: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+program: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\MySQLWorkbench.exe
+md5: d628190252133c06dad399657666974a
+
+</code></pre>
+<p>=E5=AD=97=E6=AE=B5=E8=AF=B4=E6=98=8E=EF=BC=9A</p>
+<ul>
+<li>type =E6=98=AF=E8=BD=AF=E4=BB=B6=E5=AE=89=E8=A3=85=E7=9A=84=E6=96=B9=E5=
+=BC=8F=20
+<ul>
+<li>msi =E5=AE=89=E8=A3=85=E8=BD=AF=E4=BB=B6</li>
+<li>exe =E5=AE=89=E8=A3=85=E8=BD=AF=E4=BB=B6</li>
+<li>zip =E8=A7=A3=E5=8E=8B=E5=AE=89=E8=A3=85=E6=96=B9=E5=BC=8F</li>
+<li>manual =E6=89=8B=E5=8A=A8=E5=AE=89=E8=A3=85=E6=96=B9=E5=BC=8F</li>
+</ul></li>
+<li>source =E6=98=AF=E8=BD=AF=E4=BB=B6=E4=B8=8B=E8=BD=BD=E5=9C=B0=E5=9D=80<=
+/li>
+<li>arguments msi =E6=88=96=E8=80=85 exe =E5=AE=89=E8=A3=85=E7=A8=8B=E5=BA=
+=8F=E9=9C=80=E8=A6=81=E7=9A=84=E5=8F=82=E6=95=B0=EF=BC=8C=E4=BD=BF=E7=94=A8=
+=E9=9D=99=E9=BB=98=E5=AE=89=E8=A3=85</li>
+<li>destination =E7=A8=8B=E5=BA=8F=E5=AE=89=E8=A3=85=E7=9B=AE=E5=BD=95=E5=
+=9C=B0=E5=9D=80</li>
+<li>program =E5=85=B7=E4=BD=93=E7=9A=84=E8=BD=AF=E4=BB=B6=E5=9C=B0=E5=9D=80=
+</li>
+<li>md5 =E6=98=AF program =E8=BD=AF=E4=BB=B6=E7=9A=84 md5 =E5=80=BC=EF=BC=
+=8C=E4=B8=BB=E8=A6=81=E7=94=A8=E4=BA=8E=E6=A0=A1=E9=AA=8C=E5=AE=89=E8=A3=85=
+=E6=98=AF=E5=90=A6=E6=88=90=E5=8A=9F</li>
+</ul>
+<p>=E5=A6=82=E6=9E=9C=E9=80=89=E6=8B=A9 manual =E7=9A=84=E6=96=B9=E5=BC=8F=
+=EF=BC=8Csource=E7=AD=89=E4=BF=9D=E6=8C=81=E4=B8=BA=E7=A9=BA=EF=BC=8C=E5=8F=
+=AF=E4=B8=8D=E6=A0=A1=E9=AA=8C MD5 =E5=80=BC=EF=BC=8C=E9=9C=80=E8=A6=81=E6=
+=89=8B=E5=8A=A8=E7=99=BB=E5=BD=95 applet host =E5=8F=91=E5=B8=83=E6=9C=BA=
+=E4=B8=8A=E5=AE=89=E8=A3=85=E8=BD=AF=E4=BB=B6</p>
+<h3 id=3D"=E5=AE=89=E8=A3=85=E5=8C=85=E4=B8=8B=E8=BD=BD-buildyml"><a href=
+=3D"#=E5=AE=89=E8=A3=85=E5=8C=85=E4=B8=8B=E8=BD=BD-buildyml">=E5=AE=89=E8=
+=A3=85=E5=8C=85=E4=B8=8B=E8=BD=BD build.yml</a></h3>
+<pre><code>source_url: https://jms-pkg.oss-cn-beijing.aliyuncs.com/windows-=
+pkgs/mysql-workbench-community-8.0.31-winx64.msi
+source_md5: d3641c423f00f0aa6f258ff116778e1b
+</code></pre>
+<p>=E5=AD=97=E6=AE=B5=E8=AF=B4=E6=98=8E=EF=BC=9A</p>
+<ul>
+<li>source_url =E5=A4=96=E9=83=A8=E4=B8=8B=E8=BD=BD=E9=93=BE=E6=8E=A5</li>
+<li>source_md5 =E4=B8=8B=E8=BD=BD=E6=96=87=E4=BB=B6=E7=9A=84 md5 =E6=A0=A1=
+=E9=AA=8C=E7=A0=81</li>
+</ul>
+<p>=E5=A6=82=E6=9E=9C=E8=BF=98=E9=9C=80=E8=A6=81=E5=88=9D=E5=A7=8B=E5=8C=96=
+=EF=BC=8C=E5=88=99=E8=BF=98=E4=BC=9A=E6=9C=89 patch_url =E5=92=8C patch_md5=
+ =E5=AE=9A=E4=B9=89</p>
+<ul>
+<li>patch_url</li>
+<li>patch_md5</li>
+</ul>
+<h3 id=3D"=E8=84=9A=E6=9C=AC=E6=89=A7=E8=A1=8C-mainpy"><a href=3D"#=E8=84=
+=9A=E6=9C=AC=E6=89=A7=E8=A1=8C-mainpy">=E8=84=9A=E6=9C=AC=E6=89=A7=E8=A1=8C=
+ main.py</a></h3>
+<p>main.py =E6=98=AF python =E8=84=9A=E6=9C=AC=E4=B8=BB=E7=A8=8B=E5=BA=8F=
+=E3=80=82JumpServer =E7=9A=84 Remoteapp =E7=A8=8B=E5=BA=8F tinker =E5=B0=86=
+=E9=80=9A=E8=BF=87=E8=B0=83=E7=94=A8 <code>python main.py $base64_json_data=
+</code> =E7=9A=84=E6=96=B9=E5=BC=8F=E6=89=A7=E8=A1=8C=E3=80=82</p>
+<p>base64_json_data =E6=98=AF JSON =E6=95=B0=E6=8D=AE=E8=BF=9B=E8=A1=8C bas=
+e64 =E4=B9=8B=E5=90=8E=E7=9A=84=E5=AD=97=E7=AC=A6=E4=B8=B2=EF=BC=8C=E5=8C=
+=85=E5=90=AB=E8=B5=84=E4=BA=A7=E3=80=81=E8=B4=A6=E5=8F=B7=E7=AD=89=E8=AE=A4=
+=E8=AF=81=E4=BF=A1=E6=81=AF=E3=80=82=E6=95=B0=E6=8D=AE=E6=A0=BC=E5=BC=8F=E5=
+=A4=A7=E8=87=B4=E5=A6=82=E4=B8=8B=EF=BC=8C=E4=BE=9D=E6=8D=AE api =E5=8F=98=
+=E5=8C=96=E5=81=9A=E7=9B=B8=E5=BA=94=E8=B0=83=E6=95=B4=EF=BC=9A</p>
+<pre><code>{
+  "app_name": "mysql_workbench8",
+  "protocol": "mysql",
+  "user": {
+    "id": "2647CA35-5CAD-4DDF-8A88-6BD88F39BB30",
+    "name": "Administrator",
+    "username": "admin"
+  },
+  "asset": {
+    "asset_id": "46EE5F50-F1C1-468C-97EE-560E3436754C",
+    "asset_name": "test_mysql",
+    "address": "192.168.1.1",
+    "protocols": [
+      {
+        "id": 2,
+        "name": "mysql",
+        "port": 3306
+      }
+    ]
+  },
+  "account": {
+    "account_id": "9D5585DE-5132-458C-AABE-89A83C112A83",
+    "username": "root",
+    "secret": "test"
+  },
+  "platform": {
+    "charset": "UTF-8"
+  }
+}
+</code></pre>
+<p>base64_json_data =E7=9A=84=E5=85=B7=E4=BD=93=E8=8E=B7=E5=8F=96=E5=8F=AF=
+=E4=BB=A5<a href=3D"https://wiki.fit2cloud.com/pages/viewpage.action?pageId=
+=3D109510765">=E5=8F=82=E8=80=83=E6=96=87=E6=A1=A3</a></p>
+<h3 id=3D"=E8=87=AA=E5=AE=9A=E4=B9=89=E5=B9=B3=E5=8F=B0=E5=92=8C=E5=8D=8F=
+=E8=AE=AE-platformyml"><a href=3D"#=E8=87=AA=E5=AE=9A=E4=B9=89=E5=B9=B3=E5=
+=8F=B0=E5=92=8C=E5=8D=8F=E8=AE=AE-platformyml">=E8=87=AA=E5=AE=9A=E4=B9=89=
+=E5=B9=B3=E5=8F=B0=E5=92=8C=E5=8D=8F=E8=AE=AE platform.yml</a></h3>
+<p>=E5=8F=AF=E5=8F=82=E8=80=83 <a href=3D"https://github.com/jumpserver/app=
+lets/blob/master/mysql_workbench8/platform.yml">=E6=9F=A5=E7=9C=8B=E8=BF=99=
+=E4=B8=AA</a>=EF=BC=8C=E8=BF=99=E4=B8=AA=E6=96=87=E4=BB=B6=E4=B8=8D=E6=98=
+=AF=E5=BF=85=E9=A1=BB=E7=9A=84=EF=BC=8C=E9=9C=80=E8=A6=81=E9=85=8D=E5=A5=97=
+=E5=B9=B3=E5=8F=B0=E6=88=96=E8=80=85=E8=87=AA=E5=AE=9A=E4=B9=89=E5=8D=8F=E8=
+=AE=AE=E6=97=B6=E9=9C=80=E8=A6=81</p>
+<pre><code># =E8=AF=A5=E6=96=87=E4=BB=B6=E6=98=AF=E6=B7=BB=E5=8A=A0 applet =
+=E6=97=B6=EF=BC=8C=E5=90=8C=E6=AD=A5=E6=B7=BB=E5=8A=A0=E7=9A=84 platform
+# =E8=AF=A5 platform =E5=BF=85=E9=A1=BB=E6=98=AF custom =E7=B1=BB=E5=88=AB=
+=EF=BC=8C=E6=94=AF=E6=8C=81=E8=87=AA=E5=AE=9A=E4=B9=89=E5=8D=8F=E8=AE=AE =
+=E5=92=8C =E8=87=AA=E5=AE=9A=E4=B9=89=E5=AD=97=E6=AE=B5
+#
+# =E5=B9=B3=E5=8F=B0=E5=90=8D=E7=A7=B0: =E9=9C=80=E8=A6=81=E5=94=AF=E4=B8=
+=80=EF=BC=8C=E6=89=80=E4=BB=A5=E5=BC=80=E5=8F=91=E8=80=85=E5=8F=96=E5=90=8D=
+=E6=97=B6=E8=A6=81=E5=A4=9A=E6=B3=A8=E6=84=8F=20
+name: MySQLWorkbench
+# =E7=B1=BB=E5=88=AB: =E5=BF=85=E9=A1=BB=E6=98=AF custom
+category: custom
+# =E7=B1=BB=E5=9E=8B: =E5=8F=AF=E4=BB=A5=E8=87=AA=E5=AE=9A=E4=B9=89
+type: DB
+# =E5=A4=87=E6=B3=A8: =E5=B9=B3=E5=8F=B0=E5=A4=87=E6=B3=A8
+comment: =E8=87=AA=E5=AE=9A=E4=B9=89 MySQLWorkbench
+# =E6=94=AF=E6=8C=81=E7=9A=84=E5=8D=8F=E8=AE=AE: =E8=BF=99=E4=B8=AA=E5=BE=
+=88=E5=85=B3=E9=94=AE=EF=BC=8C=E8=BF=99=E9=87=8C=E6=94=AF=E6=8C=81=E8=87=AA=
+=E5=AE=9A=E4=B9=89=E5=8D=8F=E8=AE=AE
+protocols:
+  - name: mysqlworkbench
+    port: 0
+    primary: true
+# =E8=87=AA=E5=AE=9A=E4=B9=89=E5=AD=97=E6=AE=B5=EF=BC=9A=E8=AE=BE=E7=BD=AE=
+=E8=BF=99=E4=B8=AA=E5=90=8E=EF=BC=8C=E6=B7=BB=E5=8A=A0=E8=B5=84=E4=BA=A7=E6=
+=97=B6=EF=BC=8C=E9=9C=80=E8=A6=81=E5=A1=AB=E5=86=99=EF=BC=8Capplet =E5=BC=
+=80=E5=8F=91=E6=97=B6=EF=BC=8C=E4=BC=9A=E5=9C=A8 =E8=B5=84=E4=BA=A7=E7=9A=
+=84 info =E4=B8=AD=E4=BD=93=E7=8E=B0
+custom_fields:
+  - name: db_name   # =E5=AD=97=E6=AE=B5=E5=90=8D=EF=BC=8C=E5=AD=98=E6=95=
+=B0=E6=8D=AE=E5=BA=93=E6=97=B6=E4=BD=BF=E7=94=A8
+    label: "{<!-- -->{ 'DB Name' | trans }}"    # =E5=AD=97=E6=AE=B5=E6=A0=
+=87=E7=AD=BE=EF=BC=8C =E6=B7=BB=E5=8A=A0=E6=97=B6=EF=BC=8C=E5=9C=A8=E9=A1=
+=B5=E9=9D=A2=E4=B8=8A=E6=98=BE=E7=A4=BA
+    default: mysql  # =E9=BB=98=E8=AE=A4=E5=80=BC
+    type: str       # =E7=B1=BB=E5=9E=8B=EF=BC=8C=E6=94=AF=E6=8C=81 str, in=
+t, bool, choice, text, list =E7=B1=BB=E5=9E=8B=EF=BC=8C=E5=A6=82=E6=9E=9C=
+=E6=98=AF choice=EF=BC=8C=E9=9C=80=E8=A6=81=E6=9C=89 choices =E5=AD=97=E6=
+=AE=B5
+    help_text: =E2=80=9D{<!-- -->{ 'Please select a database' | trans }}=E2=
+=80=9C   # =E5=B8=AE=E5=8A=A9=E8=AF=B4=E6=98=8E=E5=86=85=E5=AE=B9
+ =20
+  - name: ip
+    label: IP
+    type: str
+    default: 127.0.0.1
+
+  - name: port
+    label: "{<!-- -->{ 'Port' | trans }}"
+    type: int
+    default: 3306=20
+
+  - name: username
+    label: "{<!-- -->{ 'Username' | trans }}"
+    type: str
+    default: root
+
+  - name: password
+    label: "{<!-- -->{ 'Password' | trans }}"
+    type: str
+ =20
+i18n:
+  DB Name:
+    zh: =E6=95=B0=E6=8D=AE=E5=BA=93
+    ja: =E3=83=87=E3=83=BC=E3=82=BF=E3=83=99=E3=83=BC=E3=82=B9
+  Please select a database:
+    zh: =E8=AF=B7=E9=80=89=E6=8B=A9=E6=95=B0=E6=8D=AE=E5=BA=93
+    ja: =E3=83=87=E3=83=BC=E3=82=BF=E3=83=99=E3=83=BC=E3=82=B9=E3=82=92=E9=
+=81=B8=E6=8A=9E=E3=81=97=E3=81=A6=E3=81=8F=E3=81=A0=E3=81=95=E3=81=84
+  Port:
+    zh: =E7=AB=AF=E5=8F=A3
+    ja: =E3=83=9D=E3=83=BC=E3=83=88
+  Username:
+    zh: =E7=94=A8=E6=88=B7=E5=90=8D
+    ja: =E3=83=A6=E3=83=BC=E3=82=B6=E3=83=BC=E5=90=8D
+  Password:
+    zh: =E5=AF=86=E7=A0=81
+    ja: =E3=83=91=E3=82=B9=E3=83=AF=E3=83=BC=E3=83=89
+
+</code></pre>
+<h3 id=3D"=E8=87=AA=E5=AE=9A=E4=B9=89=E5=8D=B8=E8=BD=BD=E5=BA=94=E7=94=A8-u=
+ninstallyml"><a href=3D"#=E8=87=AA=E5=AE=9A=E4=B9=89=E5=8D=B8=E8=BD=BD=E5=
+=BA=94=E7=94=A8-uninstallyml">=E8=87=AA=E5=AE=9A=E4=B9=89=E5=8D=B8=E8=BD=BD=
+=E5=BA=94=E7=94=A8 uninstall.yml</a></h3>
+<p>=E8=BF=99=E4=B8=AA=E6=96=87=E4=BB=B6=E4=B8=8D=E6=98=AF=E5=BF=85=E9=A1=BB=
+=E7=9A=84=EF=BC=8C=E9=BB=98=E8=AE=A4=E4=BB=85=E5=88=A0=E9=99=A4 applet =E7=
+=9A=84=E8=84=9A=E6=9C=AC=E7=9B=AE=E5=BD=95=E3=80=82</p>
+<pre><code>type: msi  #exe, wmic, msi, batch
+path:=20
+product_name: mysql-workbench-community-8.0.31-winx64.msi
+arguments:
+
+</code></pre>
+<h4 id=3D"=E4=B8=80=E4=BA=9B=E5=8E=9F=E7=90=86=E8=AF=B4=E6=98=8E=E6=A0=B9=
+=E6=8D=AE-type-=E4=B8=8D=E5=90=8C=E6=89=A7=E8=A1=8C=E4=B8=8D=E5=90=8C=E7=9A=
+=84=E5=8D=B8=E8=BD=BD=E5=91=BD=E4=BB=A4"><a href=3D"#=E4=B8=80=E4=BA=9B=E5=
+=8E=9F=E7=90=86=E8=AF=B4=E6=98=8E=E6=A0=B9=E6=8D=AE-type-=E4=B8=8D=E5=90=8C=
+=E6=89=A7=E8=A1=8C=E4=B8=8D=E5=90=8C=E7=9A=84=E5=8D=B8=E8=BD=BD=E5=91=BD=E4=
+=BB=A4">=E4=B8=80=E4=BA=9B=E5=8E=9F=E7=90=86=E8=AF=B4=E6=98=8E=EF=BC=8C=E6=
+=A0=B9=E6=8D=AE type =E4=B8=8D=E5=90=8C=E6=89=A7=E8=A1=8C=E4=B8=8D=E5=90=8C=
+=E7=9A=84=E5=8D=B8=E8=BD=BD=E5=91=BD=E4=BB=A4</a></h4>
+<p>1=E3=80=81msi =E7=B1=BB=E5=9E=8B=EF=BC=8C=E9=9C=80=E8=A6=81=E7=9F=A5=E9=
+=81=93 product_name=EF=BC=8C=E9=BB=98=E8=AE=A4=E6=89=A7=E8=A1=8C=E4=BB=A5=
+=E4=B8=8B=E5=8D=B8=E8=BD=BD=E5=91=BD=E4=BB=A4 <code>msiexec /quiet /noresta=
+rt /uninstall {product_name}</code></p>
+<p>=E5=A6=82=E6=9E=9C=E5=A1=AB=E5=86=99=E7=9A=84=E6=98=AF=E4=B9=8B=E5=89=8D=
+=E7=9A=84=E5=AE=89=E8=A3=85=E5=8C=85 =E5=B8=A6=E6=9C=89 .msi =E5=90=8E=E7=
+=BC=80=EF=BC=8C=E5=88=99=E6=89=A7=E8=A1=8C <code>msiexec /x xxx.msi /quiet<=
+/code></p>
+<p>=E5=8F=AF=E4=BB=A5=E9=80=9A=E8=BF=87 <code>wmic product get Name, Versio=
+n</code> =E5=91=BD=E4=BB=A4=E6=9F=A5=E7=9C=8B Windows =E4=B8=8A=E5=AE=89=E8=
+=A3=85=E7=9A=84=E6=89=80=E6=9C=89=E8=BD=AF=E4=BB=B6=E7=9A=84=E5=90=8D=E7=A7=
+=B0</p>
+<p>2=E3=80=81wmic =E7=B1=BB=E5=9E=8B=EF=BC=8C=E5=8D=B8=E8=BD=BD=E5=91=BD=E4=
+=BB=A4 <code>wmic product where name=3D"{product_name}" call uninstall /noi=
+nteractive</code></p>
+<p>3=E3=80=81exe =E7=B1=BB=E5=9E=8B=EF=BC=8C=E5=8D=B8=E8=BD=BD=E5=91=BD=E4=
+=BB=A4 <code>cmd.exe {path}</code></p>
+<p>4=E3=80=81batch =E7=B1=BB=E5=9E=8B=EF=BC=8C=E5=8D=B8=E8=BD=BD=E5=91=BD=
+=E4=BB=A4 <code>cmd.exe /c {path}</code></p>
+<script>
+AJS.$('[data-macro-name=3D"markdown"] code').each(function(i, block) {
+    hljs.highlightBlock(block);
+  });
+</script>
+<script>
+AJS.$('[data-macro-name=3D"markdown"] .language-mermaid').each(function(i, =
+block) {
+const config =3D {
+     securityLevel:'sandbox',
+    startOnLoad:true,
+    theme: 'default',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, block);
+  });
+</script>
+<style>
+.hljs {display: inline;}
+pre > code {display: block !important;}
+</style>
+    </div>
+</body>
+</html>
+------=_Part_29718_1462813484.1773661249891--

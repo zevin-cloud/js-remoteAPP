@@ -1,0 +1,13 @@
+name: basic_authentication
+display_name: "Basic Authentication"
+version: 0.1.0
+comment: "Basic Authentication."
+author: wojiushixiaobai
+exec_type: python
+update_policy: always
+edition: enterprise
+type: web
+tags:
+  - web
+protocols:
+  - basic

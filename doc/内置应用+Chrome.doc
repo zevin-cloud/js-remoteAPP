@@ -1,0 +1,358 @@
+Date: Mon, 16 Mar 2026 19:42:00 +0800 (HKT)
+Message-ID: <1943784334.29725.1773661320346@60f831c906c0>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_29724_311645283.1773661320346"
+
+------=_Part_29724_311645283.1773661320346
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>=E5=86=85=E7=BD=AE=E5=BA=94=E7=94=A8 Chrome</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>=E5=86=85=E7=BD=AE=E5=BA=94=E7=94=A8 Chrome</h1>
+    <div class=3D"Section1">
+        <p>=E5=9F=BA=E4=BA=8E Selenium =E7=9A=84 Python =E8=84=9A=E6=9C=AC=
+=EF=BC=8C=E9=80=9A=E8=BF=87 Chrome =E6=B5=8F=E8=A7=88=E5=99=A8=E8=87=AA=E5=
+=8A=A8=E5=8C=96=E7=99=BB=E5=BD=95 Web =E8=B5=84=E4=BA=A7=E3=80=82 =E5=AF=B9=
+=E4=BA=8E Web =E8=B5=84=E4=BA=A7=E7=9A=84=E7=99=BB=E5=BD=95=EF=BC=8C=E4=B8=
+=BB=E8=A6=81=E6=98=AF=E4=BB=A3=E5=A1=AB=E7=94=A8=E6=88=B7=E5=90=8D=E5=92=8C=
+=E5=AF=86=E7=A0=81=EF=BC=8C=E5=8F=AF=E5=88=86=E8=A7=A3=E6=88=90=E4=BB=A5=E4=
+=B8=8B=E4=B8=89=E4=B8=AA=E5=8A=A8=E4=BD=9C=EF=BC=9A</p>
+<ul>
+<li>=E8=BE=93=E5=85=A5=E7=94=A8=E6=88=B7=E5=90=8D</li>
+<li>=E8=BE=93=E5=85=A5=E5=AF=86=E7=A0=81</li>
+<li>=E7=82=B9=E5=87=BB=E7=99=BB=E5=BD=95=E6=8C=89=E9=92=AE</li>
+</ul>
+<p>=E7=94=B1=E4=BA=8E=E5=90=84=E7=B1=BB=E9=AA=8C=E8=AF=81=E7=A0=81=E5=A4=8D=
+=E6=9D=82=E4=B8=94=E4=B8=8D=E7=BB=9F=E4=B8=80=EF=BC=8C=E6=9A=82=E4=B8=8D=E8=
+=80=83=E8=99=91=E5=81=9A=E8=87=AA=E5=8A=A8=E5=8C=96=E4=BB=A3=E5=A1=AB=E5=90=
+=84=E7=B1=BB=E9=AA=8C=E8=AF=81=E7=A0=81=E3=80=82=E5=90=8E=E7=BB=AD=E8=AE=A1=
+=E5=88=92=EF=BC=8C=E4=BC=9A=E5=BC=B9=E5=87=BA=E4=B8=80=E4=B8=AA=E8=87=AA=E5=
+=AE=9A=E4=B9=89=E7=9A=84=E8=BE=93=E5=85=A5=E6=A1=86=EF=BC=8C=E8=AE=A9=E7=94=
+=A8=E6=88=B7=E6=89=8B=E5=8A=A8=E8=BE=93=E5=85=A5=EF=BC=8C=E5=86=8D=E8=BF=9B=
+=E8=A1=8C=E4=BB=A3=E5=A1=AB=EF=BC=8C=E6=88=96=E8=80=85=E5=9C=A8=E6=AD=A5=E9=
+=AA=A4=E8=84=9A=E6=9C=AC=E4=B8=AD=E5=81=9A=E4=BC=98=E5=8C=96=E3=80=82</p>
+<p>=E5=9F=BA=E4=BA=8E=E4=BB=A5=E4=B8=8A=E6=83=85=E5=86=B5=EF=BC=8C=E5=88=9B=
+=E5=BB=BA Web =E8=B5=84=E4=BA=A7=E9=9C=80=E8=A6=81=E5=A1=AB=E5=86=99=E5=AF=
+=B9=E5=BA=94=E7=9A=84=E4=B8=89=E4=B8=AA=E6=A0=87=E7=AD=BE=E9=80=89=E6=8B=A9=
+=E5=99=A8=EF=BC=8C=E7=99=BB=E5=BD=95=E6=97=B6=E9=80=9A=E8=BF=87 Selenium =
+=E6=8E=A7=E5=88=B6 Chrome =E6=B5=8F=E8=A7=88=E5=99=A8=E6=89=A7=E8=A1=8C=E4=
+=BB=A5=E4=B8=8B=E9=BB=98=E8=AE=A4=E5=8A=A8=E4=BD=9C=EF=BC=9A</p>
+<ul>
+<li>=E6=9F=A5=E6=89=BE username input=E6=A0=87=E7=AD=BE=EF=BC=8C=E8=BE=93=
+=E5=85=A5=E8=B4=A6=E5=8F=B7=E7=94=A8=E6=88=B7=E5=90=8D</li>
+<li>=E6=9F=A5=E6=89=BE password input=E6=A0=87=E7=AD=BE=EF=BC=8C=E8=BE=93=
+=E5=85=A5=E8=B4=A6=E5=8F=B7=E5=AF=86=E7=A0=81</li>
+<li>=E6=9F=A5=E6=89=BE login =E6=8C=89=E9=92=AE=EF=BC=8C=E6=89=A7=E8=A1=8C=
+=E7=82=B9=E5=87=BB=EF=BC=8C</li>
+</ul>
+<p>=E4=B8=BA=E4=BA=86=E6=BB=A1=E8=B6=B3=E4=B8=80=E4=BA=9B=E5=A4=8D=E6=9D=82=
+=E7=9A=84=E7=99=BB=E5=BD=95=E9=80=BB=E8=BE=91=EF=BC=8C=E8=BF=98=E5=8F=AF=E4=
+=BB=A5=E7=BC=96=E5=86=99=E6=AD=A5=E9=AA=A4=E8=84=9A=E6=9C=AC=E3=80=82 =E6=
+=AD=A5=E9=AA=A4=E8=84=9A=E6=9C=AC=E6=98=AF list =E6=A0=BC=E5=BC=8F=E7=9A=84=
+ JSON =E6=95=B0=E6=8D=AE=EF=BC=8C=E5=A6=82=E4=B8=8B=E6=89=80=E7=A4=BA=EF=BC=
+=9A</p>
+<pre><code>[
+  {
+    "step": 1,
+    "value": "{USERNAME}",
+    "target": "name=3DaccessKey",
+    "command": "type"
+  },
+  {
+    "step": 2,
+    "value": "{SECRET}",
+    "target": "name=3DsecretKey",
+    "command": "type"
+  },
+  {
+    "step": 3,
+    "value": "",
+    "target": "id=3Ddo-login",
+    "command": "click"
+  }
+]
+</code></pre>
+<p>=E5=90=84=E5=AD=97=E6=AE=B5=E5=90=AB=E4=B9=89=EF=BC=9A</p>
+<ul>
+<li>step =E6=8C=87=E7=9A=84=E6=98=AF=E6=89=A7=E8=A1=8C=E9=A1=BA=E5=BA=8F=EF=
+=BC=8C=E4=B8=BB=E8=A6=81=E6=98=AF=E6=95=B0=E5=AD=97 Number</li>
+<li>value =E6=8C=87=E7=9A=84=E6=98=AF=E9=9C=80=E8=A6=81=E8=BE=93=E5=85=A5=
+=E7=9A=84=E5=80=BC=20
+<ul>
+<li>=E4=BD=BF=E7=94=A8 {USERNAME} =E5=92=8C {SECRET} =E6=8C=87=E4=BB=A3=E8=
+=B4=A6=E5=8F=B7=E4=B8=AD=E7=9A=84=E7=94=A8=E6=88=B7=E5=90=8D=E5=92=8C=E5=AF=
+=86=E7=A0=81</li>
+</ul></li>
+<li>target =E6=8C=87=E7=9A=84=E6=98=AF=E4=BD=BF=E7=94=A8=E7=9A=84=E6=A0=87=
+=E7=AD=BE=E9=80=89=E6=8B=A9=E5=99=A8</li>
+<li>command =E6=8C=87=E7=9A=84=E6=98=AF=E6=89=A7=E8=A1=8C=E7=9A=84=E5=8A=A8=
+=E4=BD=9C ( type | click )=20
+<ul>
+<li>type =E8=BE=93=E5=85=A5 value =E5=80=BC</li>
+<li>open =E8=B7=B3=E8=BD=AC=E5=88=B0=E6=9F=90=E4=B8=AAurl</li>
+<li>click =E7=82=B9=E5=87=BB=E6=8C=89=E9=92=AE</li>
+<li>select_frame =E5=88=87=E6=8D=A2=E5=88=B0 iframe =E9=A1=B5=E9=9D=A2=E6=
+=93=8D=E4=BD=9C=EF=BC=88 v3.2 =E6=96=B0=E5=A2=9E=EF=BC=89 =E5=A6=82=E6=9E=
+=9C=E9=9C=80=E8=A6=81=E8=BF=94=E5=9B=9E=E9=BB=98=E8=AE=A4=E9=A1=B5=EF=BC=8C=
+ target =E5=8F=AF=E8=AE=BE=E7=BD=AE=E4=B8=BA "index=3D-1"=EF=BC=8C=E8=BF=94=
+=E5=9B=9E=E9=BB=98=E8=AE=A4=E9=A1=B5=E9=9D=A2</li>
+</ul></li>
+</ul>
+<p>target =E6=A0=87=E7=AD=BE=E9=80=89=E6=8B=A9=E5=99=A8=E8=AF=AD=E6=B3=95=
+=EF=BC=8C=E5=8F=82=E8=80=83=E4=BA=86 Chrome =E6=B5=8F=E8=A7=88=E5=99=A8=E6=
+=8F=92=E4=BB=B6 Selenium IDE =E5=AF=BC=E5=87=BA=E7=9A=84 side =E8=84=9A=E6=
+=9C=AC=EF=BC=8C=E8=AF=AD=E6=B3=95=E7=B1=BB=E4=BC=BC by_name=3Dvalue=EF=BC=
+=8Cby_name =E5=8F=AF=E4=BB=A5=E6=98=AF=EF=BC=9A<code>name=EF=BD=9Cid=EF=BD=
+=9Ccss=EF=BD=9Cxpath</code>=EF=BC=8Ctarget =E7=A4=BA=E4=BE=8B=EF=BC=9A <cod=
+e>name=3DsecretKey</code>=E3=80=81 <code>id=3Ddo-login</code>=EF=BC=8C</p>
+<script>
+AJS.$('[data-macro-name=3D"markdown"] code').each(function(i, block) {
+    hljs.highlightBlock(block);
+  });
+</script>
+<script>
+AJS.$('[data-macro-name=3D"markdown"] .language-mermaid').each(function(i, =
+block) {
+const config =3D {
+     securityLevel:'sandbox',
+    startOnLoad:true,
+    theme: 'default',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+window.mermaid.init(undefined, block);
+  });
+</script>
+<style>
+.hljs {display: inline;}
+pre > code {display: block !important;}
+</style>
+    </div>
+</body>
+</html>
+------=_Part_29724_311645283.1773661320346--
