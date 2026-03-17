@@ -1,0 +1,29 @@
+name: navicat
+display_name: "{{ 'Navicat premium 16' | trans }}"
+comment: "{{ 'Database management software' | trans }}"
+version: 0.5.0
+exec_type: python
+author: JumpServer Team
+type: general
+update_policy: always
+edition: enterprise
+tags:
+  - database
+protocols:
+  - mysql
+  - mariadb
+  - postgresql
+  - sqlserver
+  - oracle
+  - mongodb
+
+i18n:
+  Navicat premium 16:
+    en: Navicat premium 16
+    zh: Navicat premium 16
+    ja: Navicat premium 16
+
+  Database management software:
+    en: Database management software
+    zh: 数据库管理软件
+    ja: データベース管理ソフトウェア
