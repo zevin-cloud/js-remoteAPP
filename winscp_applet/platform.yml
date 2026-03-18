@@ -1,0 +1,21 @@
+# WinSCP Platform 定义文件
+# 用于 JumpServer 平台同步和资产创建
+
+name: WinSCP
+icon: icon.png
+type: applet
+protocols:
+  - name: sftp
+    port: 22
+  - name: ftp
+    port: 21
+  - name: scp
+    port: 22
+
+# 定义资产的自定义字段（spec_info）
+# 例如，如果我们需要特定的 WinSCP 配置目录
+fields:
+  - name: config_path
+    display_name: Local Config Path
+    type: string
+    default: ""

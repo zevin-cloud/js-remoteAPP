@@ -1,0 +1,14 @@
+name: winscp_applet
+display_name: WinSCP (SFTP)
+version: 1.0.0
+author: zevin-cloud
+type: applet
+protocols:
+  - sftp
+  - ftp
+  - scp
+  - webdav
+  - s3
+tags:
+  - file-transfer
+  - winscp
