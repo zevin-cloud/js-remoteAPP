@@ -633,3 +633,18 @@ dlg.print_control_identifiers()
 5. 再写按钮点击
 6. 失败时用 `print_control_identifiers()` 补树结构
 7. 实在不稳定就改成 `send_keys` 辅助
+细节 1： 这个 base64_json_data 是唯一的输入。所有的资产信息（IP、端口）、账号信息（用户名、密码）都封装在这个加密字符串里。
+
+2. 核心结构：一个完整的 Applet 包含哪些文件？
+我们按照规范，创建一个名为 mysql_demo 的新目录，并逐步建立以下结构：
+
+manifest.yml: 基础元数据（名、版本）。
+setup.yml: 描述如何在 Windows 节点上安装这个应用（比如它是 ZIP 还是 EXE 下载）。
+platform.yml: 定义在 JumpServer 后台看到的资产协议映射关系。
+main.py: 解析入口，负责解码 base64 并分发任务。
+
+common.py
+: 提供基类，封装通用的异常处理、PID 等待逻辑。
+
+app.py
+: 业务核心，利用 pywinauto 执行具体的桌面自动化（填表、点击）。

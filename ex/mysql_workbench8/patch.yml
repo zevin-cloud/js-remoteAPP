@@ -1,0 +1,5 @@
+type: exe # exe, zip, manual, msi
+source: VC_redist_x64.exe #安装包放在同一目录下
+arguments:
+  - /S
+destination:
